@@ -1,2 +1,2 @@
 # The Harm Reduction Works-HRW Script
-A repository for tracking changes and variations on the HRW script. More info soon.
+A historical account of revisions, edits, changes and variations to the HRW script. More info soon.
