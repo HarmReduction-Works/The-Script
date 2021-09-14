@@ -1,5 +1,7 @@
+_**Love ‘em Where They’re At - Adapted with permission**_
+
 # Harm Reduction Works-HRW Host Script 
-#### © Albert C. Park and Jessica Tilley 2019
+**© Albert C. Park and Jessica Tilley 2019**
 
 ### Before the start of the meeting:
 Please distribute _“Welcome to Harm Reduction Works”_, _“You are the Expert in Your Own Life”_, _“We Believe”_ and _“We Know.”_
@@ -8,15 +10,25 @@ Please distribute _“Welcome to Harm Reduction Works”_, _“You are the Exper
 
 Welcome to Harm Reduction Works. My name is (insert host’s name here) and I am your host for today’s meeting.
 
-## For Open Meetings
+## For Open Parent/Guardian Meetings:
 
-This is an open group. Everyone is welcome especially people who aren’t sure what harm reduction is or whether it can help them. If you have been totally abstinent and/or participate in other types of groups, if you are using or drinking and just beginning to wonder if there is a problem, you are welcome here. If abstinence is not your goal, or if abstinence is your goal, if you are on M.A.T. or O.A.T. like methadone or suboxone, you are welcome here. If you are friends or family of someone who is using or drinking, if you are a counselor, therapist or work in treatment, if you work in syringe access, you are welcome here. If you are high, you are welcome here. If you want to learn more about harm reduction for any reason, you are welcome here.
+This is an open group. Everyone is welcome especially parents and guardians who aren’t sure what harm reduction is or whether it can help them. If your child or ward has
+been totally abstinent and/or participates in other types of groups, if they are using or drinking and just beginning to wonder if there is a problem, you are welcome here. If
+abstinence is not their goal, or if abstinence is their goal, if they are on M.A.T. or O.A.T. like methadone or suboxone, you are welcome here. If you are friends or family and
+especially parents and guardians of someone who is using or drinking, if you are a counselor, therapist or work in treatment, if you work in syringe access, you are welcome
+here. If you are high, you are welcome here. If you want to learn more about harm reduction for any reason, you are welcome here.
 
 ## For Focused Meetings
 
-This is a focused group for people who used drugs or alcohol in the past or currently use drugs or alcohol. If you are not someone who uses drugs or alcohol or you are not someone who used drugs/alcohol in the past, we respectfully ask you to participate in this focused meeting as a witness only. Please look for an open meeting when possible. This is a focused meeting because it’s important for people who have or had a direct relationship with drugs and alcohol to come together in order to discuss their lives and shared experience.
+This is a focused group for parents and guardians of someone who used drugs or alcohol in the past or currently uses drugs or alcohol. If you are not the parent or guardian
+of someone who uses drugs or alcohol or you are not a parent or guardian of someone who used drugs/alcohol in the past, we respectfully ask you to participate in this focused
+meeting as a witness only. Please look for an open meeting when possible. This is a focused meeting because it’s important for parents and guardians of people who have or
+had a direct relationship with drugs and alcohol to come together in order to discuss their lives and shared experience.
 
-Everyone is welcome especially people who aren’t sure what harm reduction is or whether it can help them. If you have been totally abstinent and/or participate in other types of groups, if you are using or drinking and just beginning to wonder if there is a problem, you are welcome here. If abstinence is not your goal, or if abstinence is your goal, if you are on M.A.T. or O.A.T. like methadone or suboxone, you are welcome here. If you are high, you are welcome here. If you want to learn more about harm reduction for any reason, you are welcome here.
+Everyone is welcome especially parents and guardians who aren’t sure what harm reduction is or whether it can help them. If your child or ward has been totally abstinent
+and/or participates in other types of groups, if they are using or drinking and just beginning to wonder if there is a problem, you are welcome here. If abstinence is not their
+goal, or if abstinence is their goal, if they are on M.A.T. or O.A.T. like methadone or suboxone, you are welcome here. If they are high and do not want to change behavior, you
+are welcome here. If you want to learn more about harm reduction for any reason, you are welcome here.
 
 ## Host Script continues
 _(for both open and focused groups)_
@@ -27,10 +39,13 @@ Will the person who has _“Welcome to Harm Reduction Works”_ read our welcomi
 
 > # Welcome To Harm Reduction Works
 >
-> We accept people have a relationship with drugs and alcohol. Some people take drugs or drink for fun to make a good feeling even better, or to make something bad feel tolerable, or to even feel normal. Some people love drugs and drinking. Some people enjoy drugs or drinking only occasionally. Some people need drugs or alcohol to function. Some people try to avoid taking any type of drug or drinking for any reason.
->
-> In a way, avoidance is still a way to have a relationship with drugs and alcohol. Some people find their drug use or drinking leads to troubling issues. Still others use drugs or drink and have no major consequences. Some have consequences and do not believe drug use or drinking is in any way a cause. Sometimes people are not concerned by the consequences at all.
->
+> We accept people have a relationship with drugs and alcohol. Some people take drugs or drink for fun to make a good feeling even better, or to make something bad feel
+tolerable, or to even feel normal. Some people love drugs and drinking. Some people enjoy drugs or drinking only occasionally. Some people need drugs or alcohol to
+function. Some people try to avoid taking any type of drug or drinking for any reason. In a way, avoidance is still a way to have a relationship with drugs and alcohol.
+> 
+> Some people find their drug use or drinking leads to troubling issues. Still others use drugs or drink and have no major consequences. Some have consequences and do
+not believe drug use or drinking is in any way a cause. Sometimes people are not concerned by the consequences at all.
+> 
 > In general, consequences for drug use and drinking fall into four broad categories:
 >
 > - **Health**. This refers to both physical and mental health.
@@ -63,17 +78,22 @@ _Person reads “You’re the Expert in Your Own Life”_
 
 > # You're The Expert In Your Own Life
 >
-> We are concerned more about how you look at drug using and drinking than what goals you might have to change. Of those who choose abstinence, some will abstain only from one substance. Others might abstain from all mind altering substances. Still others might choose to continue to use or drink. Looking at ourselves means figuring out what works and doesn’t work, what only works partly or what might work better. Often, this leads to some kind of goal and if it does, that’s great too.
+> We are concerned more about how you look at your child’s or ward’s drug using and drinking than what goals you might have for yourself or for them to change. Of
+those who choose abstinence, some will abstain only from one substance. Others might abstain from all mind altering substances. Still others might choose to continue
+to use or drink. Looking at ourselves and our relationship with our children or wards means figuring out what works and doesn’t work, what only works partly or what
+might work better. Often, this leads to some kind of hope and if it does, that’s great too. In general we find hopes for a loved one’s drinking or using sometimes fall into
+one or some combination of the following categories:
 >
-> In general we find goals sometimes fall into one or some combination of the following categories:
->
-> - *Amount*. How much you use when you use or drink. Sometimes just paying attention to how much is consumed can change behavior in ways that reduce harm.
-> - *Frequency*. How often you use or drink. Some people have to use or drink everyday or they go into withdrawal. Some people only like to use at night or only on weekends. Sometimes frequency changes depending on the type of drugs or alcohol consumed. Sometimes patterns change when a person’s environment is different. Becoming aware of frequency can give people the chance to change a pattern when change makes sense to them and they are ready.
+> - *Amount*. How much is used when using or drinking. Sometimes just paying attention to how much is consumed can change behavior in ways that reduce harm.
 > - *Method*. How drugs are consumed. Sterile equipment reduces risk of hepatitis and HIV and soft tissue wounds. Going slow can reduce risk of overdose. Having water between drinks helps people stay hydrated.
+> - *Frequency*. How often people use or drink. Some people have to use or drink everyday or they go into withdrawal. Some people only like to use at night or only on weekends. Sometimes frequency changes depending on the type of drugs or alcohol consumed. Sometimes patterns change when a person’s environment is different. Becoming aware of frequency can give people the chance to change a pattern when change makes sense to them and they are ready.
 >
-> Goals are not always the same for everyone because priorities, needs, wants and desires are not the same for everyone. Goals are personal because everybody’s story and circumstances are different.
+> Hopes are not always the same for everyone because priorities, needs, wants and desires are not the same for everyone. Hopes are personal because everybody’s story and circumstances are different.
 >
-> Everyone is welcome unless this is a focused group for people who are currently using drugs including alcohol, have history of personal use of drugs and alcohol or considering using drugs or drinking. Feedback can be offered but it can be politely refused at anytime before or during feedback. Please let the person speaking complete their thoughts and generally avoid interruption. This is not the place to argue or debate. We are here to support each other and explore our lives. The only right path for any of us is the one we choose. Each of us is the expert in our own lives.
+> Everyone is welcome unless this is a focused group for people who are parents and guardians to people who currently or have history of personal use of drugs and alcohol or are considering using drugs or drinking.
+> 
+> ** (OPTIONAL FOR FOCUSED GROUPS: If you are not in a parenting or guardian role and this is a focused group, we respectf ully ask you to participate in the meeting as a witness only.)**
+> Feedback can be offered but it can be politely refused at anytime before or during feedback. Please let the person speaking complete their thoughts and generally avoid interruption. This is not the place to argue or debate. We are here to support each other and explore our lives. The only right path for any of us is the one we choose. Each of us is the expert in our own lives.
 
 _Host Script continues_
 
@@ -90,9 +110,14 @@ _Conducted for 10-20 minutes_
 
 _Host Script continues_
 
-Because this meeting does not discourage feedback, it can be more conversational than other groups. At first, people who are new or less vocal may not feel comfortable joining in. We are all responsible for welcoming people and helping each other feel included in the discussion. We are all responsible to remind each other to ask permission before offering feedback. Please let the person speaking complete their thoughts before offering feedback. Well intentioned encouragement to do something can feel shaming to a person not ready to change. People change when they are ready and it makes sense to them. If conversation is moving too fast, or if you need to talk about a new topic please raise your hand. I will ask from time to time if anyone needs some space to talk to encourage new voices to add to the conversation.
+> Because this meeting does not discourage feedback, it can be more conversational than other groups. At first, people who are new or less vocal may not feel comfortable joining in. We are all responsible for welcoming people and helping each other feel included in the discussion. We are all responsible to remind each other to ask permission before offering feedback. Please let the person speaking complete their thoughts before offering feedback. Well intentioned encouragement to do something can feel shaming to a person not ready to change. People change when they are ready and it makes sense to them.
+>
+> If conversation is moving too fast, or if you need to talk about a new topic please raise your hand. I will ask from time to time if anyone needs some space to talk to
+encourage new voices to add to the conversation.
+> 
+> Will someone volunteer to begin the discussion? Please say your name before speaking. Please remember feedback can be of ered but ask for permission first. Feedback
+can be politely refused both before and at anytime during the feedback.
 
-Will someone volunteer to begin the discussion? Please say your name before speaking. Please remember feedback can be offered but ask for permission first. Feedback can be politely refused both before and at anytime during the feedback.
 
 # Discussion
 
@@ -139,8 +164,9 @@ _Person reads “We Know”_
 
 _Host Script continues_
 
-Thank you for being here. We hope this gathering has been helpful to you. We do not encourage or discourage relationships outside this meeting room. However, we do encourage interactions come from kindness, patience and compassion for one another always. One of the ways to create trust is to hold each other’s names and stories in confidence. Keeping this confidence is a primary way we show respect for one another.
+Thank you for being here. We hope this gathering has been helpful to you. We do not encourage or discourage relationships outside this meeting room. However, we do encourage interactions come from kindness, patience and compassion for one another always. One of the ways to create trust is to hold each other’s names and stories in confidence. Keeping this confidence is a primary way we show respect for one another. Regardless of personal goals we reduce each other’s harm by respecting each other’s choices, especially during our gathering time.
 
-Regardless of personal goals we reduce each other’s harm by respecting each other’s choices, especially during our gathering time. No one has to die from drug use. If you haven’t used for a while please be mindful of decreased tolerance. Use less than typical. Use slower than typical. Use with others. Carry naloxone and know how to use it. Whenever possible use sterile equipment. Take care of yourselves and each other. Please tell others our beliefs and what we know. We exist. We are here. Tell people about HRW and bring them. Help us grow.
+No one has to die from drug use. If your loved one hasn’t used for a while please encourage them to be mindful of decreased tolerance. Remind them to use less than typical;
+use slower than typical and to use with others. Carry naloxone and know how to use it. Encourage your loved one to carry Naloxone and whenever possible to use sterile equipment. Take care of yourselves and each other. Please tell others our beliefs and what we know. We exist. We are here. Tell people about HRW and bring them. Help us grow.
 
 # Meeting Ends
