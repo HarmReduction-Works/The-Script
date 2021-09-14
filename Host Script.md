@@ -93,6 +93,7 @@ one or some combination of the following categories:
 > Everyone is welcome unless this is a focused group for people who are parents and guardians to people who currently or have history of personal use of drugs and alcohol or are considering using drugs or drinking.
 > 
 > ** (OPTIONAL FOR FOCUSED GROUPS: If you are not in a parenting or guardian role and this is a focused group, we respectf ully ask you to participate in the meeting as a witness only.)**
+>
 > Feedback can be offered but it can be politely refused at anytime before or during feedback. Please let the person speaking complete their thoughts and generally avoid interruption. This is not the place to argue or debate. We are here to support each other and explore our lives. The only right path for any of us is the one we choose. Each of us is the expert in our own lives.
 
 _Host Script continues_
