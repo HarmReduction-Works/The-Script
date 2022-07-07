@@ -1,11 +1,6 @@
 # Harm Reduction Works-HRW Host Script
 #### © Albert C. Park and Jessica Tilley 2019 _(Provincial Peer Network Version - edits by Tanis Rose)_
 
-### Before the start of the meeting:
-Please distribute _“Welcome to Harm Reduction Works”_, _“You are the Expert in Your Own Life”_, _“We Believe”_ and _“We Know.”_
-
-## Meeting Begins
-
 Welcome to Harm Reduction Works. My name is _________________ and I am your host for today’s meeting. 
 
 This is an open group. Everyone is welcome. If you have been totally abstinent and/or participate in other types of groups, you are welcome.  If you are using or drinking, you are welcome. If abstinence is your goal, or if abstinence is not your goal, you are welcome here. If you are friends or family of someone who is using or drinking, you are welcome here. If you work as a harm reductionist, in any capacity, you are welcome here. 
