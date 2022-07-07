@@ -1,6 +1,5 @@
 # Harm Reduction Works-HRW Host Script
-#### © Albert C. Park and Jessica Tilley 2019
-####  Provincial Peer Network Version - edits by Tanis Rose
+#### © Albert C. Park and Jessica Tilley 2019 _(Provincial Peer Network Version - edits by Tanis Rose)_
 
 ### Before the start of the meeting:
 Please distribute _“Welcome to Harm Reduction Works”_, _“You are the Expert in Your Own Life”_, _“We Believe”_ and _“We Know.”_
