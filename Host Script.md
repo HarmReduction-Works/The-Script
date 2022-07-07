@@ -90,12 +90,12 @@ stories and for people to speak their truth.
 > - We know that Harm Reduction Works !!!
 > 
 
->Thank you for coming to the meeting tonight, we hope this meeting tonight has been helpful to you in some way or another. We encourage that interactions between members outside of these meetings come from kindness, patience, and compassion for one another - always. 
->
-> One of the ways to create trust among your peers is to hold each other’s names and stories in confidence. Keeping this confidence is a primary way we show respect for one another. 
->
-> Regardless of personal goals, we reduce each other’s harm by respecting each other’s choices, especially during our gathering time. No one should die from drug use. Use with others. Carry Naloxone and know how to use it. Whenever possible use sterile equipment. Take care of yourselves and each other. 
-> 
-> We exist. We are here. Tell people about HRW and bring them along to meetings. Help us grow. 
-> 
-> Harm Reduction Works!
+Thank you for coming to the meeting tonight, we hope this meeting tonight has been helpful to you in some way or another. We encourage that interactions between members outside of these meetings come from kindness, patience, and compassion for one another - always. 
+
+One of the ways to create trust among your peers is to hold each other’s names and stories in confidence. Keeping this confidence is a primary way we show respect for one another. 
+
+Regardless of personal goals, we reduce each other’s harm by respecting each other’s choices, especially during our gathering time. No one should die from drug use. Use with others. Carry Naloxone and know how to use it. Whenever possible use sterile equipment. Take care of yourselves and each other. 
+ 
+We exist. We are here. Tell people about HRW and bring them along to meetings. Help us grow. 
+ 
+Harm Reduction Works!
