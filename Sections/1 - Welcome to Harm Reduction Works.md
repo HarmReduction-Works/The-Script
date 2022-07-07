@@ -1,4 +1,5 @@
-Welcome To Harm Reduction Works
+# Welcome To Harm Reduction Works
+
 We accept people have a relationship with drugs and alcohol. Some people take drugs or drink for fun. Some people take drugs or drink to make to make a good feeling, feel even better… or to make a bad feeling, feel tolerable. Some people enjoy drugs or drinking only occasionally. Some people need drugs or alcohol to function. Some people try to avoid taking any type of drug or drinking for any reason. In a way, avoidance is still a way to have a relationship with drugs and alcohol. Some people find their drug use or drinking leads to troubling issues. Still others use drugs or drink and have no major consequences. Sometimes people are not concerned by the consequences at all.
 
 In general, consequences for drug use and drinking fall into four broad categories:
