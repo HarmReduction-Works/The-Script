@@ -4,10 +4,10 @@ We accept people have a relationship with drugs and alcohol. Some people take dr
 
 In general, consequences for drug use and drinking fall into four broad categories:
 
-**Health**. This refers to both physical and mental health.
-**Legal**. Many drugs are illegal. Simple possession or open containers can carry mandatory sentences or fines. The major weapons of The War on Drugs are arrest and incarceration.
-**Social**. Relationships with others may change or deteriorate to the point of frequent isolation and loneliness.
-**Financial**. Usually there is a financial cost associated with drug use and drinking. Drugs and alcohol cost money. Many employers require drug tests to get or keep a job.
+- **Health**. This refers to both physical and mental health.
+- **Legal**. Many drugs are illegal. Simple possession or open containers can carry mandatory sentences or fines. The major weapons of The War on Drugs are arrest and incarceration.
+- **Social**. Relationships with others may change or deteriorate to the point of frequent isolation and loneliness.
+- **Financial**. Usually there is a financial cost associated with drug use and drinking. Drugs and alcohol cost money. Many employers require drug tests to get or keep a job.
 
 When issues start to rise in one, some or all these broad areas, this is a key time for connection and community.
 
